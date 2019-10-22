@@ -1,10 +1,11 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: The Title Has Been Changed!
+date: "2019-10-22T13:17:03.284Z"
 description: "Hello World"
 ---
 
 This is my first post on my new fake blog! How exciting!
+It's really a fun experience to try to write content to show how things have changed!
 
 I'm sure I'll write a lot more interesting things in the future.
 
